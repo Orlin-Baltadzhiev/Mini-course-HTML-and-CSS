@@ -1,0 +1,46 @@
+body {
+    font-family: "Helvetica", sans-serif;
+    background: white;
+}
+header {
+    text-align: center;
+    padding: 1px 0px 1px 7px;;
+    background: #234467;
+    margin: -8px -8px 0px -8px;
+    
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 20px;
+   
+   
+}
+
+header nav ul li a {
+    text-decoration: none;
+    display: inline;
+    color: white;
+}
+
+main section h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+main section article {
+    padding: 5px 5px 3px 3px;
+    margin: -15px 353px -1px 473px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+  bottom: 0;
+  width: 100%;
+    color: white;
+    background:#234465;
+    text-align: center;
+    padding: 1rem 0;
+   
+}

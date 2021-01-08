@@ -1,0 +1,21 @@
+body{
+    
+    font-family: "Helvetica", sans-serif;
+   
+    background: white;
+    
+}
+
+section h1{
+    font-size: 3rem;
+    text-align: center;
+}
+
+section article {
+   padding: 5px 5px 3px 3px;
+   margin: -15px 353px -1px 608px;
+   
+}
+
+
+
