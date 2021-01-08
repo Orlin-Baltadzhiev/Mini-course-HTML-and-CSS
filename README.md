@@ -1,2 +1,2 @@
-# Mini-course-HTML-and-CSS
+# HTML-and-CSS-mini course SoftUni
 first steps in front end
