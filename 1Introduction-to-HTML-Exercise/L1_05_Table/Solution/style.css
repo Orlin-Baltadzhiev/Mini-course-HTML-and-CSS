@@ -1,0 +1,21 @@
+table, thead, tbody, tfoot, tr,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;    
+}
+.absent{
+    text-align: right;
+    
+}
+table {
+    width: 15%;
+}
+
+table tr {
+    height: 30px;
+}
+
+td {
+    padding: 7px;
+    text-align: right;
+
+}
